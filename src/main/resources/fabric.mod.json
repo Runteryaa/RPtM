@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "rptmlib",
+  "version": "${version}",
+  "name": "RPtMLib",
+  "description": "Library required for custom RPtM generated mods.",
+  "authors": [
+    "Runterya"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/RPtMLib",
+    "sources": "https://github.com/Runteryaa/RPtM"
+  },
+  "license": "MIT",
+  "icon": "assets/rptm/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.runterya.rptmlib.RPtM"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": ">=1.20",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
