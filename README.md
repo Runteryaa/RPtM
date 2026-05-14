@@ -13,7 +13,7 @@ In Modrinth people tend to download mods over datapacks and resource packs. So i
 * **Version Agnostic:** Built to work on **1.20+**.
 * **Zero Bloat:** No heavy dependencies or performance hits.
 * **Mod Compatibility:** Works with **[Respackopts](https://modrinth.com/mod/respackopts)** natively.
-* **Open Source:** Both [RPtMLib](https://github.com/Runteryaa/RPtM) and [RPtM Converter](https://github.com/Runteryaa/RPtM-website) source code available on [GitHub](https://github.com/Runteryaa/RPtM).
+* **Open Source:** Both [RPtMLib](https://github.com/Runteryaa/RPtM) and [RPtM Converter](https://github.com/Runteryaa/RPtM-Converter) source code available on [GitHub](https://github.com/Runteryaa/RPtM).
 
 ---
 
