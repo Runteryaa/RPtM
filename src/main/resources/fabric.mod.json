@@ -9,10 +9,11 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/RPtMLib",
+    "issues": "https://modrinth.com/mod/RPtMLib/issues",
     "sources": "https://github.com/Runteryaa/RPtM"
   },
   "license": "MIT",
-  "icon": "assets/rptm/icon.png",
+  "icon": "icon.png",
   "environment": "client",
   "entrypoints": {
     "main": [
