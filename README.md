@@ -18,7 +18,7 @@ In Modrinth people tend to download mods over datapacks and resource packs. So i
 ---
 
 ### 🗺️ TODO
-* **[RPtM Converter](https://rptm.pages.dev/):** Make RPtM Converter better. (it is just barebones right now)
+* ...
 
 ---
 
